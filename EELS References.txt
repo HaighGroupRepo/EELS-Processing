@@ -1,0 +1,4 @@
+EELS References
+
+Books
+Egerton, R. F., Electron Energy-Loss Spectroscopy in the Electron Microscope (2011) Springer
